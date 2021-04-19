@@ -9,8 +9,6 @@ repository = "https://github.com/B4TT3RY/async-cron"
 documentation = "https://docs.rs/async-cron"
 keywords = ["async", "cron", "scheduler"]
 
-features = ["tokio", "async-std"]
-
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
