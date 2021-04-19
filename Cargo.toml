@@ -1,6 +1,6 @@
 [package]
 name = "async-cron"
-description = ""
+description = "Asynchronous Cron Scheduler"
 version = "0.1.0"
 authors = ["B4TT3RY <gb4tt3ry@gmail.com>"]
 edition = "2018"
