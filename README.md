@@ -1,6 +1,6 @@
 # async-cron
 
-<div align="center">
+<div align="left">
     <a href="https://crates.io/crates/async-cron">
     <img src="https://img.shields.io/crates/v/async-cron.svg">
     </a>
